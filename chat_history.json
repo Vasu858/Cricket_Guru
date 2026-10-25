@@ -1,0 +1,42 @@
+[
+  {
+    "role": "user",
+    "content": "HI"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! How can I assist you with cricket today?"
+  },
+  {
+    "role": "user",
+    "content": "how are you"
+  },
+  {
+    "role": "assistant",
+    "content": "Out of the context."
+  },
+  {
+    "role": "user",
+    "content": "who called as caption cool"
+  },
+  {
+    "role": "assistant",
+    "content": "The term \"Captain Cool\" refers to MS Dhoni, the former captain of the Indian cricket team. \n\n- Known for his calm demeanor under pressure.\n- Led India to victory in the 2007 T20 World Cup and the 2011 ODI World Cup.\n- Renowned for his sharp tactical mind and finishing ability in matches."
+  },
+  {
+    "role": "user",
+    "content": "how many cnetrueies virat kohli have"
+  },
+  {
+    "role": "assistant",
+    "content": "As of my last update, Virat Kohli has scored 47 centuries in One Day Internationals (ODIs) and 28 centuries in Test matches. \n\n- His ODI centuries make him one of the highest century-makers in that format.\n- Kohli\u2019s ability to chase and lead from the front has made him a standout player in modern cricket. \n\nFor the latest statistics, please check up-to-date sources."
+  },
+  {
+    "role": "user",
+    "content": "total"
+  },
+  {
+    "role": "assistant",
+    "content": "Virat Kohli has scored a total of 75 international centuries (47 in ODIs and 28 in Tests). \n\n- Includes all formats: ODIs, Tests, and T20s (notably, he has 0 T20I centuries).\n- Among the top century-makers in cricket history. \n\nFor the most current numbers, it's best to check reliable cricket sites."
+  }
+]
